@@ -9,8 +9,10 @@
 - objects
 - FIX: windows.h include file not crossplatform. Find alternative to GetAsyncKeyState.
 
+\
+\
 
-### REMEMER TO HANDLE THE DIFFERENT LINE ENDINGS FOR MAC OS (UNIX) AND WINDOWS IN GIT!:
+REMEMER TO HANDLE THE DIFFERENT LINE ENDINGS FOR MAC OS (UNIX) AND WINDOWS IN GIT!:
 - on windows:\
 git config --global core.autocrlf true
 - on macos(unix):\
