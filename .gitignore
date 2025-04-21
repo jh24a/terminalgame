@@ -1,0 +1,28 @@
+build/ 
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+# Application files
+Thumbs.db
+.Spotlight-V100
+.Trashes
+# User-specific files
+*.swp
+*.sublime-workspace
+*.log
+# Build and dependency directories
+node_modules/
+venv/
+dist/
+build/
+# Configuration files
+*.iml
+.idea/
+.vscode/
+# Other common files
+*.bak
+*.tmp
+*.orig
